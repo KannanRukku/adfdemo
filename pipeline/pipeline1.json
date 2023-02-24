@@ -88,7 +88,7 @@
 							"referenceName": "AzureDataLakeStorage1",
 							"type": "LinkedServiceReference"
 						},
-						"folderPath": "data/dw_staging"
+						"folderPath": "data/output"
 					},
 					"compute": {
 						"coreCount": 8,
