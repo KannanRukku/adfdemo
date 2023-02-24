@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
+				"fileName": "b2d67801-ab38-4f67-8c0b-800376a27f9b",
 				"folderPath": "out",
 				"fileSystem": "tweets"
 			},
