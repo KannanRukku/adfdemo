@@ -68,7 +68,7 @@
 				"     deletable:false,",
 				"     insertable:true,",
 				"     updateable:false,",
-				"     upsertable:true,",
+				"     upsertable:false,",
 				"     format: 'table',",
 				"     staged: true,",
 				"     allowCopyCommand: true,",
