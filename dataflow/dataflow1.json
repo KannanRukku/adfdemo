@@ -81,7 +81,7 @@
 				"          genres,",
 				"          year,",
 				"          Rating,",
-				"          {Rotten Tomato},",
+				"          RT_tomatto = {Rotten Tomato},",
 				"          PrimaryGenre,",
 				"          RatingsRank",
 				"     )) ~> sink1"
