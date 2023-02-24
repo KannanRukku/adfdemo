@@ -1,0 +1,9 @@
+{
+	"name": "AZDatafact777",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8df8e9a7-6a53-4672-9022-c83847c6394e",
+		"tenantId": "d496fac1-9401-4324-99b8-7fa568cf7953"
+	}
+}
